@@ -1,3 +1,3 @@
 # dsci510-lab1.
 My name is Peizhen Li, and my email address is peizhenl@usc.edu
-In the lab1.py file, print is a function to show the code in the quete. When we use print(), the program can help us see the () on a screen. To create a lab1.py file, we can click add file and give it name as lab1.py, then type the code in this file to show "welcome to DCSCI510!"
+Hello! The lab1.py file is a Python program edited by ANACONDA software. You can find the file through a repository named dsci510-lab1 in peizhenl on Github. You can click the 'download code button' in the upper right corner. Then you can download the ZIP and use cmd or Python software on the computer to open the lab1.py program. 
